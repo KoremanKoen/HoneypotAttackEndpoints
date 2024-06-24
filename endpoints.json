@@ -1,0 +1,11 @@
+[
+    {
+        "description": "Link to index page",
+        "url": "https://IPVM"
+    },
+
+    {
+        "description": "Link to page 1",
+        "url": "https://IPVM/page1"
+    }
+]
